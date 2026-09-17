@@ -56,6 +56,7 @@ Read the guide in this order:
 9. [Multi-dimensional comparison matrix](docs/09-comparison-matrix.md)
 10. [How to classify any optimization algorithm](docs/10-classification-workflow.md)
 11. [Common confusions and FAQ](docs/11-common-confusions.md)
+12. [Algorithm and method index](docs/12-algorithm-index.md)
 
 ## A first example: classify Genetic Algorithm correctly
 
@@ -98,7 +99,7 @@ These definitions are intentionally explicit so the terms are not used interchan
 
 ## Scope
 
-The guide covers classical mathematical programming, combinatorial optimization, continuous optimization, metaheuristics, multi-objective optimization, robust and stochastic optimization, online/dynamic optimization, black-box optimization, surrogate methods, distributed optimization and hybrid exact–heuristic methods.
+The guide covers classical mathematical programming, combinatorial optimization, continuous optimization, metaheuristics, multi-objective optimization, robust and stochastic optimization, online/dynamic optimization, black-box optimization, surrogate methods, distributed optimization and hybrid exact–heuristic methods. The final algorithm index consolidates the named methods used throughout the tutorial into one searchable appendix.
 
 It is a **taxonomy and conceptual guide**, not a replacement for a full textbook on convergence theory, computational complexity, numerical linear algebra, or solver implementation.
 
