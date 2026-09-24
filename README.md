@@ -1,5 +1,19 @@
 # Optimization Methods Taxonomy
 
+<!-- portfolio-umbrella:start -->
+## Portfolio role
+
+This repository is the primary umbrella repository for this Jors Academy research area. Related projects have been consolidated under `projects/` so the methods, implementations, experiments, and case studies can be maintained and explored from one place.
+
+### Included projects
+
+- [`integer-programming-for-operations-research`](projects/integer-programming-for-operations-research/)
+- [`intertemporal-optimization-for-operations-research`](projects/intertemporal-optimization-for-operations-research/)
+- [`optimizasyon-yontemleri-taksonomisi`](projects/optimizasyon-yontemleri-taksonomisi/)
+
+Each consolidated project keeps its own files and a `SOURCE_REPOSITORY.md` provenance record. The snapshot preserves the source repository's default-branch files at consolidation time; repository-level history and metadata remain separate from the snapshot.
+<!-- portfolio-umbrella:end -->
+
 A practical, concept-first guide to classifying optimization models and algorithms without mixing independent concepts.
 
 Optimization terminology is often taught as if methods belong to one simple tree: *exact vs. heuristic*, *deterministic vs. stochastic*, or *local vs. global*. That is convenient, but incomplete. These labels describe **different properties**. A single algorithm can belong to several categories at the same time.
